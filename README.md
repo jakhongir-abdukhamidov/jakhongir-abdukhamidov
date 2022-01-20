@@ -3,8 +3,8 @@
 I am a passionate front end web developer, sociable, curious, meticulous, autonomous & polymath. I am perpetually working on improving my skills one design problem at a time.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakhongir001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Jakongir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakhongir001&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongir-abdukhamidov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jakongir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakhongir-abdukhamidov&hide=issues)
 
 <h2>Skills</h2>
 
