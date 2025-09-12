@@ -27,11 +27,19 @@ I'm a **passionate Full-Stack Developer** with a deep love for creating exceptio
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongir-abdukhamidov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongir-abdukhamidov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-![Jakhongir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakhongir-abdukhamidov&hide=issues&theme=tokyonight&hide_border=true&bg_color=0D1117&show_icons=true)
+![Jakhongir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakhongir-abdukhamidov&hide=issues&theme=tokyonight&hide_border=true&bg_color=0D1117&show_icons=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakhongir-abdukhamidov&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakhongir-abdukhamidov&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF)
+
+</div>
+
+### 📈 **Activity Overview**
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jakhongir-abdukhamidov&theme=tokyonight&hide_border=true&area=true)
 
 </div>
 
